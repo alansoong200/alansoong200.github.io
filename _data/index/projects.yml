@@ -12,3 +12,7 @@
    # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/renyuanz/leonids
+  
+  - name: Self-supervised super-resolution PET using generative adversarial networks. Conference Record, IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 27- Nov 2, 2019.
+  image: pong.png
+  github: https://github.com/renyuanz/leonids
