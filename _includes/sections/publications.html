@@ -1,18 +1,14 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
 {% for publications in site.data.index.publications %}
-    <div class="row">
-            <div class="col">
-                <p style="margin: 0">{{ publications.name }}</p>
-                <p style="margin: 0">{{ publications.descr }}</p>
-
-                {% if publications.github %}
-                <a href="{{publications.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
-                {% endif %}
-                {% if publications.website %}
-                <a href="{{publications.website }} "><i class="fa fa-fw fa-home"></i>Homepage</a>
-                {% endif %}
-
-            </div>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Bibliography</title>
+</head>
+<body>
+<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Song, Tzu-An, Samadrita Roy Chowdhury, Fan Yang, and Joyita Dutta. “Super-Resolution PET Imaging Using Convolutional Neural Networks.” <i>IEEE Transactions on Computational Imaging</i> 6 (2020): 518–28. <a href="https://doi.org/10.1109/TCI.2020.2964229">https://doi.org/10.1109/TCI.2020.2964229</a>.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1109%2FTCI.2020.2964229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Super-Resolution%20PET%20Imaging%20Using%20Convolutional%20Neural%20Networks&amp;rft.jtitle=IEEE%20Transactions%20on%20Computational%20Imaging&amp;rft.volume=6&amp;rft.aufirst=Tzu-An&amp;rft.aulast=Song&amp;rft.au=Tzu-An%20Song&amp;rft.au=Samadrita%20Roy%20Chowdhury&amp;rft.au=Fan%20Yang&amp;rft.au=Joyita%20Dutta&amp;rft.date=2020&amp;rft.pages=518-528&amp;rft.spage=518&amp;rft.epage=528&amp;rft.issn=2333-9403"></span>
+</div></body>
     </div>
 {% endfor %}
