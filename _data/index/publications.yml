@@ -1,19 +1,18 @@
 - name: PET image super-resolution using generative adversarial networks. Neural Netw. 2020 May;125: 83-91
-  descr: Song T-A, Chowdhury SR, Yang F, Dutta J.
+  descr: "Song T-A, Chowdhury SR, Yang F, Dutta J"
   image: pong.png
   paper: https://github.com/renyuanz/leonids
   
   - name: Super-resolution PET imaging using convolutional neural networks. IEEE Trans Comput Imaging. 2020 Jan;6: 518-28.
-  descr: Song T-A, Chowdhury SR, Yang F, Dutta J.
+  descr: "Song T-A, Chowdhury SR, Yang F, Dutta J"
   image: pong.png
   paper: https://github.com/renyuanz/leonids
   
   - name: PET image deblurring and super-resolution with an MR-based joint entropy prior. IEEE Trans Comput Imaging. 2019 Dec;5(4): 530-9.
-  descr: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, 
+  descr: "Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q"
   image: pong.png
   paper: https://github.com/renyuanz/leonids
   
-
 - name: A physics-informed geometric learning model for pathological tau spread in Alzheimer's disease.
   descr: "Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020"
   image: pong.png
