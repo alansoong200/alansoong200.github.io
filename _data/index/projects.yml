@@ -1,4 +1,14 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Novel convolutional neural network and generative neural network architectures for PET image deblurring super-resolution
+ # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  image: pong.png
+  github: https://github.com/renyuanz/leonids
+  
+- name: PET image deblurring and super-resolution using information-theoretic anatomical priors
+ # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  image: pong.png
+  github: https://github.com/renyuanz/leonids
+  
+  - name: Graph convolutional neural network architectures that enable representation learning on graphs for application to brain network connectivity analysis
+   # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/renyuanz/leonids
