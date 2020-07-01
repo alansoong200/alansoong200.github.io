@@ -1,4 +1,4 @@
 - name: Publications
-  descr: "First publication"
+  descr: "A physics-informed geometric learning model for pathological tau spread in Alzheimer's disease. Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020."
   image: pong.png
   github: https://github.com/renyuanz/leonids
