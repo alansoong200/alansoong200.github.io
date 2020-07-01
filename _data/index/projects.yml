@@ -1,15 +1,15 @@
 - name: PET image super-resolution using generative adversarial networks, accepted for publication in the journal Neural Networks, 2020
- # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/renyuanz/leonids
   
 - name: Super-Resolution PET Imaging Using Convolutional Neural Networks, accepted for publication in IEEE Transactions on Computational Imaging, 2019
- # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/renyuanz/leonids
   
   - name: Deblurring and Super-Resolution With an MR-Based Joint Entropy Prior
-   # descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+    descr: "  Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/renyuanz/leonids
   
