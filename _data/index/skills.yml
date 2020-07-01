@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C/C++, Matlab, Python
+aspects: Deep learning Suites, Matlab, Python
 percentage: 100, 65, 70, 60, 60, 55
