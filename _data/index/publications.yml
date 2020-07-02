@@ -3,19 +3,19 @@
 - paper: https://ieeexplore.ieee.org/document/8950375
 
 -  name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
-   paper: https://ieeexplore.ieee.org/document/8950375
+-  paper: https://ieeexplore.ieee.org/document/8950375
 -  name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9'
-   paper: https://ieeexplore.ieee.org/document/8698807
+-  paper: https://ieeexplore.ieee.org/document/8698807
 -  type: Conference Articles
 -  name: Song T-A, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J. Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
-   paper: https://ieeexplore.ieee.org/document/8759531
+-   paper: https://ieeexplore.ieee.org/document/8759531
  
 -  name: Song T-A, Chowdhury SR, Yang F, Dutta J.  Self-supervised super-resolution PET using generative adversarial networks. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 26-Nov 02, 2019.
-   paper: https://ieeexplore.ieee.org/document/8759531
+-  paper: https://ieeexplore.ieee.org/document/8759531
  
 -  name: Song T-A, Chowdhury SR, El Fakhri G, Li Q, Dutta J.  Super-resolution PET imaging using a generative adversarial network. Society for Nuclear Medicine and Molecular Imaging (SNMMI) 2018 Annual Meeting, Anaheim, CA, Jun 22–25, 2019. 
-   paper: http://jnm.snmjournals.org/content/60/supplement_1/576
+-  paper: http://jnm.snmjournals.org/content/60/supplement_1/576
 
 -  name: Song T-A, Chowdhury SR, Kim K, Gong K, El Fakhri G, Li Q, Dutta J. Super-resolution PET using a very deep convolutional neural network. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Sydney, Australia, Nov 10–17, 2018.
-   paper: https://ieeexplore.ieee.org/document/8824683
+-  paper: https://ieeexplore.ieee.org/document/8824683
 
