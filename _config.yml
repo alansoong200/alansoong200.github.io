@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: TzuAn's Research Page
+title: Leonids
 email:
-description: 
+description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -22,7 +22,7 @@ permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
-  footnote_nr: 0
+  footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: TzuAn Song
-  avatar: TzuAn_Song.jpg
-  job: "PhD Student in Elctrical and Computer Engineering"
-  bio: Biomedical Data Science Researcher
+  name: Leonids
+  avatar: leonids-logo.png
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
   twitter: #username
