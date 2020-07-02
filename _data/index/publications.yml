@@ -1,6 +1,6 @@
 - type: Journal Articles
 - name: PET image super-resolution using generative adversarial network,Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
-- website: https://doi.org/10.1109/TCI.2020.2964229
+- github: https://doi.org/10.1109/TCI.2020.2964229
 -  name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
    paper: https://ieeexplore.ieee.org/document/8950375
 -  name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9'
