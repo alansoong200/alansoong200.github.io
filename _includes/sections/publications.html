@@ -2,6 +2,8 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
 {% for publications in site.data.index.publications %}
-<h2 style="margin: 0">{{ publications.name }}</h2>
- <p style="margin: 0">{{ publications.author }}</p>
+<p style="margin: 0">{{ publications.name }}</p>
+<p style="margin: 0">{{ publications.author}}</p>
+<p style="margin: 0">{{ publications.paper}}</p>
+<p style="margin: 0">{{ publications.code}}</p>
 {% endfor %}
