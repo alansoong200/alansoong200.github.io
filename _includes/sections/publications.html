@@ -5,10 +5,7 @@
 {% for publications in site.data.index.publications %}
 <h2 style="margin: 0">{{ publications.type }}</h2>
 <p style="margin: 0">{{ publications.name }}</p>
-li
-{
-  display:inline-block;
-}
+
 <ul>
 {% if publications.paper %}
  <li><a href="{{ publications.paper }} "></i>Paper</a>
