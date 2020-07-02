@@ -9,7 +9,7 @@
 -  code:  https://github.com/alansoong200/SR_PET_CNN
 
 
--type Conference Articles
+- type:  Conference Articles
 -  name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9
 -  paper: https://ieeexplore.ieee.org/document/8698807
 
