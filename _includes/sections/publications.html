@@ -1,8 +1,9 @@
 <div class="navy-line"></div>
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
-<h2><span data-i18n="skills.my_skills">Articles</span></h2>
+
 
 {% for publications in site.data.index.publications %}
+<h2 style="margin: 0">{{ publications.type }}</h2>
 <p style="margin: 0">{{ publications.name }}</p>
 <href style="margin: 0">{{ publications.paper}}</a>
 <href style="margin: 0">{{ publications.code}}</a>
