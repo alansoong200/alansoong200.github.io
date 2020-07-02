@@ -5,8 +5,8 @@
 {% for publications in site.data.index.publications %}
 <h2 style="margin: 0">{{ publications.type }}</h2>
 <p style="margin: 0">{{ publications.name }}</p>
- {% if publications.paper %}
-      <a href="{{ publications.paper }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
+ {% if publications.github %}
+      <a href="{{ publications.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
 {% endfor %}
 <href style="margin: 0">{{ publications.paper}}</a>
 <href style="margin: 0">{{ publications.code}}</a>
