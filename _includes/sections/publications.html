@@ -6,5 +6,8 @@
 <h2 style="margin: 0">{{ publications.type }}</h2>
 <p style="margin: 0">{{ publications.name }}</p>
 <href style="margin: 0">{{ publications.code}}</a>
+{% if publications.paper %}
 <a href="{{ publications.paper }} "></i>Paper</a>
+{% endif %}
+
 {% endfor %}
