@@ -1,19 +1,13 @@
 - name:   PET image super-resolution using generative adversarial network
-  author: Song T-A, Chowdhury SR, Yang F, Dutta J.
+  author:  Song T-A, Chowdhury SR, Yang F, Dutta J.
+  journal: Neural Netw. 2020 May;125: 83-91
   paper: https://doi.org/10.1109/TCI.2020.2964229
   
-  - name: Super-resolution PET imaging using convolutional neural networks
+ - name: Super-resolution PET imaging using convolutional neural networks
   author: Song T-A, Chowdhury SR, Yang F, Dutta J
   paper: https://doi.org/10.1109/TCI.2020.2964229
   
- - name: PET image deblurring and super-resolution with an MR-based joint entropy prior.
-  author: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J.
-  paper: https://doi.org/10.1109/TCI.2020.2964229
-  
- - name: Graph convolutional neural networks for Alzheimer’s disease classification
-  author: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J.
-  paper: https://doi.org/10.1109/TCI.2020.2964229
-  
+
 
   
  
