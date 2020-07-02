@@ -4,7 +4,7 @@
  - name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
  paper: https://ieeexplore.ieee.org/document/8950375
   
- - name: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J, PET image deblurring and super-resolution with an MR-based joint entropy prior. IEEE Trans Comput Imaging. 2019 Dec;5(4): 530-9
+ - name: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J, PET image deblurring and super-resolution with an MR-based joint entropy prior. 'IEEE Trans Comput Imaging. 2019 Dec;5(4): 530-9'
  paper: https://ieeexplore.ieee.org/document/8698807
  
  - name: Song T-A, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J. Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
