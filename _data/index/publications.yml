@@ -1,6 +1,6 @@
 - type: Journal Articles
 - name: PET image super-resolution using generative adversarial network,Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
-- github: https://github.com/renyuanz/leonids
+- paper: https://ieeexplore.ieee.org/document/8950375
 
 -  name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
    paper: https://ieeexplore.ieee.org/document/8950375
