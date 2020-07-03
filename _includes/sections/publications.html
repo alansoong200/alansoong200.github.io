@@ -1,21 +1,27 @@
 <div class="navy-line"></div>
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
-
 {% for publications in site.data.index.publications %}
+
+
 <h2 style="margin: 0">{{ publications.type }}</h2>
-<h4 style="margin: 5">{{ publications.name }}</h4>
-
 <ul>
-{% if publications.paper %}
- <li><a href="{{ publications.paper }} "></i>Paper</a>
-{% endif %}
-{% if publications.code %}
- <li><a href="{{ publications.code }} "></i display: inline>Code</a>
-{% endif %}
-{% if publications.cite %}
- <li><a href="{{ publications.cite }}" ></i>Cite</a>
-{% endif %}
-</ul>
+  <li>
 
+
+    <h4 style="margin: 5">{{ publications.name }}</h4>
+
+       <ul>
+           {% if publications.paper %}
+           <li><a href="{{ publications.paper }} "></i>Paper</a>
+           {% endif %}
+           {% if publications.code %}
+           <li><a href="{{ publications.code }} "></i display: inline>Code</a>
+           {% endif %}
+           {% if publications.cite %}
+            <li><a href="{{ publications.cite }}" ></i>Cite</a>
+           {% endif %}
+       </ul>
+    </li>
+</ul>
 {% endfor %}
