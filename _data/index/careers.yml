@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: BIDSLab,University of Massachusetts, Lowell
-  link: http://www.bidslab.org/research.html
+  link: http://www.bidslab.org/index.html
   date: Jan 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   job: Graduate Research Assistant 
 
