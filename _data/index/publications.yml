@@ -2,7 +2,7 @@
 - name: PET image super-resolution using generative adversarial network,Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
 - paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
 - code:  https://github.com/alansoong200/SR_PET_CNN
--cite:   https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/neuNet
+- cite:   https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/neuNet
 
 
 -  name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
