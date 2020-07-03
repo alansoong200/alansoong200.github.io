@@ -5,10 +5,11 @@
 
 
 <h2 style="margin: 0">{{ publications.type }}</h2>
-<ul>
+
        <p style="margin: 0">{{ publications.name }}</p>
-       <p style="padding-left: 2em;">{{ publications.auth }} <br /> {{ publications.pub }}</p>
+       <p style="padding-left: 2em;">{{ publications.auth }}{{ publications.pub }}</p>
            {% if publications.paper %}
+       <ul>
            <li><a href="{{ publications.paper }} "></i>Paper</a>
            {% endif %}
            {% if publications.code %}
@@ -17,6 +18,6 @@
            {% if publications.cite %}
             <li><a href="{{ publications.cite }}" ></i>Cite</a>
            {% endif %}
-       
-</ul>   
+       </ul>
+  
 {% endfor %}
