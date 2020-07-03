@@ -1,37 +1,36 @@
 - type: Journal Articles
 - name: PET image super-resolution using generative adversarial network,Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
-paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
-code:  https://github.com/alansoong200/SSSR_PET
-cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
+- paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
+- code:  https://github.com/alansoong200/SSSR_PET
+- cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
 
--  name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
--  paper: https://ieeexplore.ieee.org/document/8950375
--  code:  https://github.com/alansoong200/SR_PET_CNN
--  cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
+- name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
+- paper: https://ieeexplore.ieee.org/document/8950375
+- code:  https://github.com/alansoong200/SR_PET_CNN
+- cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
 
--  name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9
--  paper: https://ieeexplore.ieee.org/document/8698807
--  cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
+- name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9
+- paper: https://ieeexplore.ieee.org/document/8698807
+- cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
 
 - type:  Conference Articles
 
 - name:  Song T-A, Dutta J. Noise2Void Denoising of PET Images. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Boston, MA, Oct 31-Nov 07, 2020. (Submitted)
-- 
--  name:  Song T-A, Chowdhury SR, Yang F, Sepulcre J, Jacobs HIL, Wedeen V, Johnson KA, Dutta J. A Physics-informed geometric learning model for pathological tau spread in Alzheimer’s disease.  Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020
+- name:  Song T-A, Chowdhury SR, Yang F, Sepulcre J, Jacobs HIL, Wedeen V, Johnson KA, Dutta J. A Physics-informed geometric learning model for pathological tau spread in Alzheimer’s disease.  Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020
            (Accepted)
 
--  name:  Song T-A, Chowdhury SR, Yang F, Dutta J.  Self-supervised super-resolution PET using generative adversarial networks. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 26-Nov 02, 2019.
--  paper:  https://ieeexplore.ieee.org/document/8759531
+- name:  Song T-A, Chowdhury SR, Yang F, Dutta J.  Self-supervised super-resolution PET using generative adversarial networks. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 26-Nov 02, 2019.
+- paper:  https://ieeexplore.ieee.org/document/8759531
  
--  name:  Song T-A, Chowdhury SR, El Fakhri G, Li Q, Dutta J.  Super-resolution PET imaging using a generative adversarial network. Society for Nuclear Medicine and Molecular Imaging (SNMMI) 2018 Annual Meeting, Anaheim, CA, Jun 22–25, 2019. 
--  paper:  http://jnm.snmjournals.org/content/60/supplement_1/576
+- name:  Song T-A, Chowdhury SR, El Fakhri G, Li Q, Dutta J.  Super-resolution PET imaging using a generative adversarial network. Society for Nuclear Medicine and Molecular Imaging (SNMMI) 2018 Annual Meeting, Anaheim, CA, Jun 22–25, 2019. 
+- paper:  http://jnm.snmjournals.org/content/60/supplement_1/576
 
--  name:  Song T-A, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J. Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
--  paper:  https://ieeexplore.ieee.org/document/8759531
--  cite:   https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/GCNNCite.txt
+- name:  Song T-A, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J. Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
+- paper:  https://ieeexplore.ieee.org/document/8759531
+- cite:   https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/GCNNCite.txt
 
--  name:  Song T-A, Chowdhury SR, Kim K, Gong K, El Fakhri G, Li Q, Dutta J. Super-resolution PET using a very deep convolutional neural network. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Sydney, Australia, Nov 10–17, 2018.
--  paper:  https://ieeexplore.ieee.org/document/8824683
+- name:  Song T-A, Chowdhury SR, Kim K, Gong K, El Fakhri G, Li Q, Dutta J. Super-resolution PET using a very deep convolutional neural network. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Sydney, Australia, Nov 10–17, 2018.
+- paper:  https://ieeexplore.ieee.org/document/8824683
 
 
 
