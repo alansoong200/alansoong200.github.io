@@ -1,0 +1,18 @@
+
+@inproceedings{song_graph_2019,
+	address = {Venice, Italy},
+	title = {Graph {Convolutional} {Neural} {Networks} {For} {Alzheimer}’s {Disease} {Classification}},
+	isbn = {978-1-5386-3641-1},
+	url = {https://ieeexplore.ieee.org/document/8759531/},
+	doi = {10.1109/ISBI.2019.8759531},
+	abstract = {Graph convolutional neural networks (GCNNs) aim to extend the data representation and classiﬁcation capabilities of convolutional neural networks, which are highly effective for signals deﬁned on regular Euclidean domains, e.g. image and audio signals, to irregular, graph-structured data deﬁned on non-Euclidean domains. Graph-theoretic tools that enable us to study the brain as a complex system are of great signiﬁcance in brain connectivity studies. Particularly, in the context of Alzheimer’s disease (AD), a neurodegenerative disorder associated with network dysfunction, graph-based tools are vital for disease classiﬁcation and staging. Here, we implement and test a multi-class GCNN classiﬁer for networkbased classiﬁcation of subjects on the AD spectrum into four categories: cognitively normal, early mild cognitive impairment, late mild cognitive impairment, and AD. We train and validate the network using structural connectivity graphs obtained from diffusion tensor imaging data. Using receiver operating characteristic curves, we show that the GCNN classiﬁer outperforms a support vector machine classiﬁer by margins that are reliant on disease category. Our ﬁndings indicate that the performance gap between the two methods increases with disease progression from CN to AD. We thus demonstrate that GCNN is a competitive tool for staging and classiﬁcation of subjects on the AD spectrum.},
+	language = {en},
+	urldate = {2020-06-19},
+	booktitle = {2019 {IEEE} 16th {International} {Symposium} on {Biomedical} {Imaging} ({ISBI} 2019)},
+	publisher = {IEEE},
+	author = {Song, Tzu-An and Chowdhury, Samadrita Roy and Yang, Fan and Jacobs, Heidi and Fakhri, Georges El and Li, Quanzheng and Johnson, Keith and Dutta, Joyita},
+	month = apr,
+	year = {2019},
+	pages = {414--417},
+	file = {Song et al. - 2019 - Graph Convolutional Neural Networks For Alzheimer’.pdf:C\:\\Users\\Samadrita\\Zotero\\storage\\FFG5BL6Y\\Song et al. - 2019 - Graph Convolutional Neural Networks For Alzheimer’.pdf:application/pdf}
+}
