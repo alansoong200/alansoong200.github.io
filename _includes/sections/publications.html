@@ -10,6 +10,7 @@
        <p style="padding-left: 2em;">{{ publications.auth }}{{ publications.pub }}</p>
            {% if publications.paper %}
        <ul>
+           {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>Paper</a>
            {% endif %}
            {% if publications.code %}
