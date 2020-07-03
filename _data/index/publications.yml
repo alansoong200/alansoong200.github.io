@@ -1,15 +1,18 @@
 - type: Journal Articles
-- name: PET image super-resolution using generative adversarial network,Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
+- name: PET image super-resolution using generative adversarial network
+- auth: Song T-A, Chowdhury SR, Yang F, Dutta J.Neural Netw. 2020 May;125,pages 83-91
 - paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
 - code:  https://github.com/alansoong200/SSSR_PET
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
 
-- name: Super-resolution PET imaging using convolutional neural networks, Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
+- name: Super-resolution PET imaging using convolutional neural networks
+- auth: Song T-A, Chowdhury SR, Yang F, Dutta J,IEEE Trans Comput Imaging. 2020 Jan;6,pages 518-28
 - paper: https://ieeexplore.ieee.org/document/8950375
 - code:  https://github.com/alansoong200/SR_PET_CNN
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
 
-- name: PET image deblurring and super-resolution with an MR-based joint entropy prior, Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9
+- name: PET image deblurring and super-resolution with an MR-based joint entropy prior
+- auth: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J,  'IEEE Trans Comput Imaging. 2019 Dec;5(4),pp 530-9
 - paper: https://ieeexplore.ieee.org/document/8698807
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
 
