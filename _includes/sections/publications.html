@@ -9,8 +9,8 @@
 
 
        <h4 style="margin: 5">{{ publications.name }}</h4>
-       <p style="margin: 5">{{ publications.auth }}</p>
-       <p style="margin: 5">{{ publications.pub }}</p>
+       <p style="margin: 5"><span style="padding-left: 2px;">{{ publications.auth }}</p>
+       <p style="margin: 5"><span style="padding-left: 2px;">{{ publications.pub }}</p>
            {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>Paper</a>
            {% endif %}
