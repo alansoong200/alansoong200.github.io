@@ -2,8 +2,8 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
 <h2 style="margin-left:1em;">Journal Articles</h2>
-{% for publications in site.data.index.publications %}
 <ul style="margin-left:4em;">
+{% for publications in site.data.index.publications %}
 {% if publications.type=="Journal Articles" %}  
     <li>
       <p><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
@@ -19,10 +19,10 @@
            {% endif %}
        </ul>
      </li>
-</ul>
+
 {% endif %}   
 {% endfor %}
-
+</ul>
 
 <h2 style="margin-left:1em;">Conference Articles</h2>
 {% for publications in site.data.index.publications %}
