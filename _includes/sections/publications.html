@@ -4,11 +4,11 @@
 {% for publications in site.data.index.publications %}
 
 {% if publications.type %}
-<h2 style="margin: 5;">{{ publications.type }}</h2>
+<h2 style="margin:5;">{{ publications.type }}</h2>
 {% endif %}   
       
-      <p><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
-       <ul>
+      <p style="margin-left:5;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
+       <ul style="margin-left:5;">
            {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>[Paper]</a>
            {% endif %}
