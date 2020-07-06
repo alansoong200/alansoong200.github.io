@@ -20,22 +20,27 @@
 
 - type:  Conference Articles
 
-- name:  <strong>Song T-A</strong>, Dutta J. Noise2Void Denoising of PET Images. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Boston, MA, Oct 31-Nov 07, 2020. (Submitted)
-
-- name:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Sepulcre J, Jacobs HIL, Wedeen V, Johnson KA, Dutta J. A Physics-informed geometric learning model for pathological tau spread in Alzheimer’s disease.  Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020
+- name:  Noise2Void Denoising of PET Images. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Boston, MA, Oct 31-Nov 07, 2020. (Submitted)
+- auth:  <strong>Song T-A</strong>, Dutta J. 
+- name:  A Physics-informed geometric learning model for pathological tau spread in Alzheimer’s disease.  Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020
            (Accepted)
+- auth:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Sepulcre J, Jacobs HIL, Wedeen V, Johnson KA, Dutta J. 
 
-- name:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.  Self-supervised super-resolution PET using generative adversarial networks. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 26-Nov 02, 2019.
+- name:  Self-supervised super-resolution PET using generative adversarial networks. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Manchester, UK, Oct 26-Nov 02, 2019.
+- auth:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.  
 - paper:  https://ieeexplore.ieee.org/document/8759531
  
-- name:  <strong>Song T-A</strong>, Chowdhury SR, El Fakhri G, Li Q, Dutta J.  Super-resolution PET imaging using a generative adversarial network. Society for Nuclear Medicine and Molecular Imaging (SNMMI) 2018 Annual Meeting, Anaheim, CA, Jun 22–25, 2019. 
+- name:  Super-resolution PET imaging using a generative adversarial network. Society for Nuclear Medicine and Molecular Imaging (SNMMI) 2018 Annual Meeting, Anaheim, CA, Jun 22–25, 2019. 
+- auth:  <strong>Song T-A</strong>, Chowdhury SR, El Fakhri G, Li Q, Dutta J.
 - paper:  http://jnm.snmjournals.org/content/60/supplement_1/576
 
-- name:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J. Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
+- name:  Graph convolutional neural networks for Alzheimer’ s disease classification.  IEEE International Symposium Biomedical Imaging (ISBI), Venice, Italy, Apr 8–11, 2019, pp. 414-417. 
+- auth:  <strong>Song T-A</strong>, Chowdhury SR, Yang F, Jacobs H, El Fakhri G, Li Q, Johnson KA, Dutta J.
 - paper:  https://ieeexplore.ieee.org/document/8759531
 - cite:   https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/GCNNCite.txt
 
-- name:  <strong>Song T-A</strong>, Chowdhury SR, Kim K, Gong K, El Fakhri G, Li Q, Dutta J. Super-resolution PET using a very deep convolutional neural network. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Sydney, Australia, Nov 10–17, 2018.
+- name:  Super-resolution PET using a very deep convolutional neural network. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Sydney, Australia, Nov 10–17, 2018.
+- auth:  <strong>Song T-A</strong>, Chowdhury SR, Kim K, Gong K, El Fakhri G, Li Q, Dutta J.
 - paper:  https://ieeexplore.ieee.org/document/8824683
 
 
