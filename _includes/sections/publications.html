@@ -4,7 +4,7 @@
 {% for publications in site.data.index.publications %}
 
 {% if publications.type %}
-<h2 style="margin-left:2em;">{{ publications.type }}</h2>
+<h2 style="margin-left:1em;">{{ publications.type }}</h2>
 {% endif %}   
       
       <p style="margin-left:4em;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
