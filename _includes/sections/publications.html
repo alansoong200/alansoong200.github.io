@@ -7,7 +7,7 @@
 <h2 style="margin: 5">{{ publications.type }}</h2>
 {% endif %}   
       
-      <p style="margin: 5"><strong>{{ publications.name }}</strong><br>{{ publications.auth }}<strong><br>{% if publications.pub %} {{ publications.pub }}{% endif %}</strong></p>
+      <p style="margin: 5"><strong>{{ publications.name }}</strong><br>{% if publications.pub %} {{ publications.pub }}{% endif %}</strong><br>{{ publications.auth }}<strong></p>
        <ul>
            {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>[Paper]</a>
