@@ -1,5 +1,4 @@
-- type: Journal Articles
-  name: PET image super-resolution using generative adversarial network.
+- name: PET image super-resolution using generative adversarial network.
   auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
   pub: Neural Netw. 2020 May
   paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
@@ -18,8 +17,7 @@
   paper: https://ieeexplore.ieee.org/document/8698807
   cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
 
-- type: Conference Articles
-  name: Noise2Void Denoising of PET Images. 
+- name: Noise2Void Denoising of PET Images. 
   pub: IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Boston, MA, Oct 31-Nov 07, 2020. (Submitted)
   auth: <strong>Song T-A</strong>, Dutta J. 
   
