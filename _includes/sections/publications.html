@@ -3,9 +3,9 @@
 
 {% for publications in site.data.index.publications %}
 
-{% if publications.type %}
+{% if publications.type=="Journal Articles" %}
 <h2 style="margin-left:1em;">{{ publications.type }}</h2>
-{% endif %}   
+
       
       <p style="margin-left:4em;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
        <ul style="margin-left:4em;">
@@ -19,5 +19,5 @@
             <li><a href="{{ publications.cite }}" ></i>[Cite]</a>
            {% endif %}
        </ul>
-  
+{% endif %}    
 {% endfor %}
