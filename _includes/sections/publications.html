@@ -7,8 +7,8 @@
 <h2 style="margin:5;">{{ publications.type }}</h2>
 {% endif %}   
       
-      <p style="margin-left:5;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
-       <ul style="margin-left:5;">
+      <p style="margin-left:5em;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
+       <ul style="margin-left:5em;">
            {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>[Paper]</a>
            {% endif %}
