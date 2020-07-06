@@ -1,4 +1,5 @@
-- name: PET image super-resolution using generative adversarial network.
+- type: Journal Articles
+  name: PET image super-resolution using generative adversarial network.
   auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
   pub: Neural Netw. 2020 May
   paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
