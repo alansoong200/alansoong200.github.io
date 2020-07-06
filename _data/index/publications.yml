@@ -7,16 +7,16 @@
   cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
 
 - name: Super-resolution PET imaging using convolutional neural networks
-- auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
-- pub: IEEE Trans Comput Imaging. 2020 Jan
-- code: https://github.com/alansoong200/SR_PET_CNN
-- cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
+  auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
+  pub: IEEE Trans Comput Imaging. 2020 Jan
+  code: https://github.com/alansoong200/SR_PET_CNN
+  cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
 
 - name: PET image deblurring and super-resolution with an MR-based joint entropy prior
-- auth: <strong>Song T-A</strong>, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J.
-- pub: IEEE Trans Comput Imaging. 2019 Dec
-- paper: https://ieeexplore.ieee.org/document/8698807
-- cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
+  auth: <strong>Song T-A</strong>, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J.
+  pub: IEEE Trans Comput Imaging. 2019 Dec
+  paper: https://ieeexplore.ieee.org/document/8698807
+  cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
 
 - type: Conference Articles
 
