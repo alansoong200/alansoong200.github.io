@@ -1,10 +1,10 @@
 - type: Journal Articles
-- name: PET image super-resolution using generative adversarial network
-- auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
-- pub: Neural Netw. 2020 May
-- paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
-- code: https://github.com/alansoong200/SSSR_PET
-- cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
+  name: PET image super-resolution using generative adversarial network
+  auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
+  pub: Neural Netw. 2020 May
+  paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
+  code: https://github.com/alansoong200/SSSR_PET
+  cite: https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
 
 - name: Super-resolution PET imaging using convolutional neural networks
 - auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
