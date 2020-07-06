@@ -1,19 +1,19 @@
 - type: Journal Articles
 - name: PET image super-resolution using generative adversarial network
-- auth: Song T-A, Chowdhury SR, Yang F, Dutta J.
+- auth: <strong>Song T-A</strong>, Chowdhury SR, Yang F, Dutta J.
 - pub: Neural Netw. 2020 May
 - paper: https://pubmed.ncbi.nlm.nih.gov/32078963/
 - code:  https://github.com/alansoong200/SSSR_PET
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/NeuNetCite.bib
 
 - name: Super-resolution PET imaging using convolutional neural networks
-- auth: Song T-A, Chowdhury SR, Yang F, Dutta J
+- auth: Song T-A, Chowdhury SR, Yang F, Dutta J.
 - pub: IEEE Trans Comput Imaging. 2020 Jan
 - code:  https://github.com/alansoong200/SR_PET_CNN
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCICite.txt
 
 - name: PET image deblurring and super-resolution with an MR-based joint entropy prior
-- auth: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J
+- auth: Song T-A, Yang F, Chowdhury SR, Kim K, Johnson KA, El Fakhri G, Li Q, Dutta J.
 - pub: IEEE Trans Comput Imaging. 2019 Dec
 - paper: https://ieeexplore.ieee.org/document/8698807
 - cite:  https://github.com/alansoong200/alansoong200.github.io/blob/master/Bibtex/TCI_JointEntropy.bib 
@@ -21,6 +21,7 @@
 - type:  Conference Articles
 
 - name:  Song T-A, Dutta J. Noise2Void Denoising of PET Images. IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS-MIC), Boston, MA, Oct 31-Nov 07, 2020. (Submitted)
+
 - name:  Song T-A, Chowdhury SR, Yang F, Sepulcre J, Jacobs HIL, Wedeen V, Johnson KA, Dutta J. A Physics-informed geometric learning model for pathological tau spread in Alzheimer’s disease.  Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima, Peru, Oct 4-8, 2020
            (Accepted)
 
