@@ -26,10 +26,11 @@
 
 <h2 style="margin-left:1em;">Conference Articles</h2>
 {% for publications in site.data.index.publications %}
-
-{% if publications.type=="Conference Articles" %}      
-      <p style="margin-left:4em;"><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
-       <ul style="margin-left:4em;">
+<ul style="margin-left:4em;">
+{% if publications.type=="Conference Articles" %}  
+    <li>
+      <p><span style="font-size:20px;"><strong>{{ publications.name }}</strong></span><br>{% if publications.pub %}<em>{{ publications.pub }}</em><br>{% endif %}{{ publications.auth }}</p>
+       <ul>
            {% if publications.paper %}
            <li><a href="{{ publications.paper }} "></i>[Paper]</a>
            {% endif %}
@@ -40,5 +41,9 @@
             <li><a href="{{ publications.cite }}" ></i>[Cite]</a>
            {% endif %}
        </ul>
-{% endif %}
+     </i>
+</ul>
+{% endif %}   
 {% endfor %}
+
+
